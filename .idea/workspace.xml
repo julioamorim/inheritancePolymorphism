@@ -2,38 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3de6d2b1-eae1-4364-b2c8-619c00739df2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bytebank-herdado/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bytebank-herdado/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ByteBankOO/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ByteBankOO/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ByteBankOO/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ByteBankOO/ByteBankOO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado/01.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ByteBankOO/out/production/ByteBankOO/Conta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ByteBankOO/out/production/ByteBankOO/CriaConta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ByteBankOO/out/production/ByteBankOO/TestaMetodo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ByteBankOO/src/Conta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ByteBankOO/src/CriaConta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ByteBankOO/src/TestaMetodo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-encapsulado/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-encapsulado/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-encapsulado/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-encapsulado/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado/.idea/aws.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/bytebank-herdado-conta.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/ContaCorrente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/Poupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/Poupanca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado/bin/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado/src/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado/src/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado/src/Gerente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank-herdado/src/TesteFuncionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado/src/TesteFuncionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +23,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -66,7 +36,7 @@
       <option name="presentableId" value="Default" />
       <updated>1630958499805</updated>
       <workItem from="1630958505259" duration="1050000" />
-      <workItem from="1630967816248" duration="727000" />
+      <workItem from="1630967816248" duration="2110000" />
     </task>
     <servers />
   </component>
@@ -84,16 +54,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/bytebank-herdado-conta/src/ContaCorrente.java</url>
-          <line>3</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
