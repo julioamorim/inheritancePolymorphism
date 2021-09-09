@@ -3,7 +3,7 @@ public class TesteConta {
         ContaCorrente cc = new ContaCorrente(123, 123);
         cc.deposita(100.00);
 
-        Poupanca cp = new Poupanca(222, 222);
+        ContaPoupanca cp = new ContaPoupanca(222, 222);
         cp.deposita(100.0);
 
         cc.transfere(10., cp);

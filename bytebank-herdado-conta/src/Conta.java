@@ -67,12 +67,5 @@ public abstract class Conta {
         this.agencia = agencia;
     }
 
-    public Cliente getTitular() {
-        return this.titular;
-    }
-
-    public void setTitular(Cliente titular) {
-        this.titular = titular;
-    }
 
 }
